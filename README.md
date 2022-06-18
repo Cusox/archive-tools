@@ -114,7 +114,7 @@
 
 **stopwords.txt** 为停用词表
 
-本仓库是博客文章《[利用朴素贝叶斯模型进行的中文文本类别预测 ](https://lsilencej.top/2021/10/24/category_nbayes)》的源代码
+本仓库是博客文章《[利用朴素贝叶斯模型进行的中文文本类别预测 ](https://blog.lsilencej.top/archives/nbayes-post-classify)》的源代码
 
 ## Article_Recommender
 
@@ -126,5 +126,5 @@
 - **user_article.py** 用户关键词列表生成
 - **article_comparator.py** 文章用户兴趣拟合度比较
 
-本仓库是博客文章《[文章推荐系统（思路优化版） ](https://lsilencej.top/2021/10/26/article_recommender/)》的源代码，思路仅供参考
+本仓库是博客文章《[文章推荐系统（思路优化版） ](https://blog.lsilencej.top/archives/post-recommender-plus)》的源代码，思路仅供参考
 
